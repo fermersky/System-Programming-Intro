@@ -1,0 +1,9 @@
+C:\Users\PKO\Desktop\Sysprog\Sysprog\bin\Debug\Sysprog.exe.config
+C:\Users\PKO\Desktop\Sysprog\Sysprog\bin\Debug\Sysprog.exe
+C:\Users\PKO\Desktop\Sysprog\Sysprog\bin\Debug\Sysprog.pdb
+C:\Users\PKO\Desktop\Sysprog\Sysprog\obj\Debug\Sysprog.csprojResolveAssemblyReference.cache
+C:\Users\PKO\Desktop\Sysprog\Sysprog\obj\Debug\Sysprog.Form1.resources
+C:\Users\PKO\Desktop\Sysprog\Sysprog\obj\Debug\Sysprog.Properties.Resources.resources
+C:\Users\PKO\Desktop\Sysprog\Sysprog\obj\Debug\Sysprog.csproj.GenerateResource.Cache
+C:\Users\PKO\Desktop\Sysprog\Sysprog\obj\Debug\Sysprog.exe
+C:\Users\PKO\Desktop\Sysprog\Sysprog\obj\Debug\Sysprog.pdb
