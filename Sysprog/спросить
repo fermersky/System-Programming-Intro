@@ -1,0 +1,14 @@
+
+private async void materialRaisedButton1_Click(object sender, EventArgs e)
+        {
+            await AccessTheWebAsync();
+        }
+
+        public async Task<string> AccessTheWebAsync()
+        {
+            Thread.Sleep(3000);
+
+            HttpClient client = new HttpClient();
+            string getStringTask =  await client.GetStringAsync("http://msdn.microsoft.com");
+            return getStringTask;
+        }
